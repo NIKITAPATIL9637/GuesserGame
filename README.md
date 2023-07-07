@@ -1,5 +1,5 @@
 # GuesserGame
-INEURON Assignment No.-2
+INEURON Assignment No.-3
 
 This Project include three main classes such as Guesser, Players, Umpire. Each one will perform some activity in order to get desired results. 
 Gusser guess the number and send some range to the players, in order to guess the number between range.
