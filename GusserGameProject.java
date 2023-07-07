@@ -1,4 +1,3 @@
-package identifier;
 import java.util.*;
 
 class Guesser{
